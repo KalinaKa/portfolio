@@ -1,4 +1,4 @@
-# I am Anna and this is my portfolio 📊🤖🐍
+# I am Ania and this is my portfolio 📊🤖🐍
 > **Power BI & Excel dashboards, ML models & Python/SQL data pipelines**
 ---
 
