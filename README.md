@@ -14,7 +14,7 @@ As a lifelong learner, I’ve completed several intensive programs:
 * **Python for Web**: 50-hour intermediate workshop on Python-based data automation, analysis, and web-based presentation.
 * **Professional Scrum Product Owner™ (PSPO I)** certification.
 * And yes, I’ve logged more hours on self-led deep dives and homework than I care to admit — fueled by curiosity and an endless supply of coffee!
-* 
+ 
 ---
 
 ## 🚀 What’s Inside This Repository
