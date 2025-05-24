@@ -1,6 +1,6 @@
 # 🤖 Customer Churn Prediction
 
-This repository focuses on predicting customer churn for a subscription service using historical customer data. It contains exploratory notebooks, model training, and a serialized Support Vector Classifier model ready for deployment.
+This repository focuses on predicting customer churn for a subscription service using historical customer data. A complementary PowerPoint presentation summarizing the data description, methodology, model highlights, and business recommendations is included in the repo. It contains exploratory notebooks, model training, and a serialized Support Vector Classifier model ready for deployment.
 
 ## 📂 Repository Contents
 
@@ -36,7 +36,6 @@ seaborn
 joblib
 ```
 
-
 ## 🚀 Usage
 
 1. **Explore & Train**: Run `CustomerChurnPrediction.ipynb` to reproduce data analysis and model training.
@@ -49,4 +48,14 @@ joblib
    preds = model.predict(new_data)
    ```
 
+---
 
+## 🎓 Presentation Deck
+
+* 📊 **Customer Churn Prediction Presentation**: A PowerPoint overview that:
+
+  * Defines churn rate and business context with industry benchmarks.
+  * Lays out project goals: measuring churn magnitude, profiling churned vs. retained customers, factor analysis, predictive modeling, and retention strategies.
+  * Describes the dataset source from Kaggle, feature definitions, and target class balance challenges.
+  * Highlights the chosen model (SVC with RBF kernel), hyperparameter tuning approach, and performance metrics (high recall, F1-score).
+  * Recommends actionable business interventions: tailored loyalty programs, cross-/up-sell tactics, UX audit of the customer journey, and SLA improvements for customer support.
